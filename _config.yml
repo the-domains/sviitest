@@ -1,4 +1,19 @@
-analytics: {}
+name: sviitest
+favicon: null
+layout_spectrum: 0.68405
+typography_spectrum: 0.229441
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B0A890'
@@ -8,11 +23,9 @@ color:
     - '#80A8D8'
   brandStrength: 0.675987
   lightness: 0.144271
-  rhythmicContrast: 0.164837
   saturation: 0.412663
-cta: {}
-layout_spectrum: 0.910362
-name: sviitest
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.229441
+  rhythmicContrast: 0.164837
+purpose:
+  - name: null
+    item: null
+    url: null
