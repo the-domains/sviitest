@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B0A890'
+    - '#781818'
+    - '#A89878'
+    - '#5080C8'
+    - '#80A8D8'
+  brandStrength: 0.675987
+  lightness: 0.144271
+  rhythmicContrast: 0.164837
+  saturation: 0.412663
+cta: {}
+layout_spectrum: 0.910362
+name: sviitest
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.229441
